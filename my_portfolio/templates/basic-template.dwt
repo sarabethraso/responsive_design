@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled ocument</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="https://use.typekit.net/sjn4lcu.css">
+	<link rel="stylesheet" href="https://use.typekit.net/sjn4lcu.css">
+	<link rel="stylesheet" href="https://use.typekit.net/sjn4lcu.css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header> </header>
+  <nav>
+	<ul>
+		<li><a href="../pages/about.html">About</a></li>
+		<li><a href="../pages/blog.html">Blog</a></li>
+		<li><a href="../pages/gallery.html">Gallery</a></li>
+		<li><a href="../pages/contact.html">Contact</a></li>
+	  </ul>
+	
+	</nav>
+  <!--Begin Floated Elements-->
+  <aside><h3>I'm a woman, a mother, a wife, a teacher, a web developer, and a photographer, who also wear glasses</h3>
+	  
+	  <h3>Join me as I examine life through all my various lenses</h3>
+	  
+	  <h3>by Jess Campbell</h3>
+	
+	</aside>
+	
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1> Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable -->  <!--End Floated elements-->
+  <footer></footer>
+</div>
+</body>
+</html>
